@@ -1,7 +1,7 @@
 DelayQueue
 ~~~~~~~~~~
 
-轻量级延迟队列，参考JAVA DelayQueue实现，采用Heap排序实现。
+轻量级延迟队列，参考JAVA DelayQueue实现，采用堆排序，在不删除元素的情况下多线程并发读写，任务延迟消费可实现1ms左右的精度。
 
 
 
