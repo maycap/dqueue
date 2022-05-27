@@ -4,12 +4,6 @@ DelayQueue
 轻量级延迟队列，参考JAVA DelayQueue实现，采用Heap排序实现。
 
 
-安装
-~~~~
-
-::
-
-   pip install dqueue
 
 使用
 ~~~~
